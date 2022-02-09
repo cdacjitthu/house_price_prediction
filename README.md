@@ -21,8 +21,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-    - <p>Lasso model can be used to the business case.</p>
+ - <p>Lasso model can be used to the business case.</p>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
